@@ -85,11 +85,11 @@
             bindings = <&kp ESC>;
         };
         
-         combo_tab {
-            timeout-ms = <50>;
-            key-positions = <10 11>;
-            bindings = <&kp TAB>;
-        };
+         // combo_tab {
+         //    timeout-ms = <50>;
+         //    key-positions = <10 11>;
+         //    bindings = <&kp TAB>;
+        // };
         
             combo_ralt {
             timeout-ms = <50>;
@@ -164,6 +164,5 @@
                          &trans &trans  					&trans &trans 
 			>;
 		};
-
 	};
 };
