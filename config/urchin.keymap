@@ -158,7 +158,7 @@
 		tri_layer {
 			label = "Tri";
 			bindings = <
-            &kp NUM_1  &kp NUM_2    &kp NUM_3    &trans &trans 			&trans &trans   &trans   &trans  &trans
+            &kp NUM_1  &kp NUM_2    &kp NUM_3    &trans &trans 			&trans &trans   &trans   &trans  &studio_unlock
             &kp F1 &kp F2 &kp F3 &kp F4 &kp F5  						&trans &kp PG_UP  &kp K_VOL_UP &kp K_MUTE &trans 
             &bt BT_CLR  &bt BT_NXT &bt BT_PRV &kp F6 &kp F7   				&trans &kp PG_DN  &kp K_VOL_DN &kp LC(F11) &trans   
                          &trans &trans  					&trans &trans 
